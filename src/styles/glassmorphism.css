@@ -1,7 +1,5 @@
 /* Custom Glassmorphism & High-Impact Aesthetic Design System */
 
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
-
 :root {
   --bg-dark: #06070d;
   --bg-card: rgba(15, 17, 32, 0.7);
